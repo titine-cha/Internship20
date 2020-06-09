@@ -1,6 +1,6 @@
 # Metals in biota data
 
-This repo contains data on metal concentrations in biota as collected by NRM in Swedish lakes, for more information see [this report](http|//nrm.diva-portal.org/smash/record.jsf?dswid=2644&pid=diva2%3A1343153&c=8&searchType=SIMPLE&language=en&query=faxneld&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all).
+This repo contains data on metal concentrations in biota as collected by NRM in Swedish lakes, for more information see [this report](http://nrm.diva-portal.org/smash/record.jsf?pid=diva2%3A1343153&dswid=5544).
 
 ### File `LIMN_metals.csv`
 
